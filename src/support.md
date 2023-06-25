@@ -1,0 +1,3 @@
+# Dystopia Support
+
+If you have comments, questions, or feedback, the best way--and most fitting, after all--to reach out is on the [Dystopia subreddit /r/DystopiaForReddit](https://reddit.com/r/DystopiaForReddit). For more private matters, you can also send a private message or chat to the developer at [/u/DystopiaForReddit](https://reddit.com/u/DystopiaForReddit) or send an email to [testflight@aero2x.eu](mailto:testflight@aero2x.eu).
